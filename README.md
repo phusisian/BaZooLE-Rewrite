@@ -1,1 +1,3 @@
 # BaZooLE-Rewrite
+
+This is a rewrite of my game, BaZooLE (demo of previous version here: https://www.youtube.com/watch?v=rohIt2EJuWY). I found that the more I added, the more confusing my code. With the experience I had garnered from working on the project for so long, I had many ideas in mind which would simplify the way in which the code functions while also offering more freedom than was previously available. The rewrite has yet to exceed the progress of the original game, but it is far easier to work with, and allows for simpler implementation of new ideas while offering entire capabilities previously not available to the game.
